@@ -1,0 +1,7 @@
+2018-11-26 15:33:16.939  INFO 11140 --- [main] com.imooc.LoggerTest                     : Starting LoggerTest on DESKTOP-AR12D4L with PID 11140 (started by Devil in E:\Devil\java\sell)
+2018-11-26 15:33:16.941  INFO 11140 --- [main] com.imooc.LoggerTest                     : No active profile set, falling back to default profiles: default
+2018-11-26 15:33:17.024  INFO 11140 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@52b1beb6: startup date [Mon Nov 26 15:33:17 CST 2018]; root of context hierarchy
+2018-11-26 15:33:17.217  INFO 11140 --- [main] f.a.AutowiredAnnotationBeanPostProcessor : JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-11-26 15:33:17.320  INFO 11140 --- [main] com.imooc.LoggerTest                     : Started LoggerTest in 1.07 seconds (JVM running for 2.196)
+2018-11-26 15:33:17.470  INFO 11140 --- [main] com.imooc.LoggerTest                     : info....
+2018-11-26 15:33:17.652  INFO 11140 --- [Thread-1] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@52b1beb6: startup date [Mon Nov 26 15:33:17 CST 2018]; root of context hierarchy
